@@ -1,10 +1,10 @@
 {
-    "ownerNumber": ["6282193115723@s.whatsapp.net","62887435047326@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "gcwa" : "https://instabio.cc/Alphabot",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.my.id",
+    "ownerNumber": ["6285731251154@s.whatsapp.net","62887435047326@s.whatsapp.net"],
+    "ownerName": "Shine",
+    "instagram" : "Instagram.com/ShineeBott",
+    "gcwa" : "https://nekopoi.care",
+    "botName": "Shine ",
+    "footer": "nekopoi.care",
     "sessionName": "session",
     "fotoDonasi": "./qris.jpg",
     "pathimg": "./Haruka.jpg",
@@ -21,10 +21,10 @@
     "autorespond": false,
     "autoblok212": true,
     "autoread": true,
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 30,
+    "limitCount": 100000,
     "gcount": {
-        "prem": 1000,
-        "user": 15
+        "prem": 100000000000000,
+        "user": 100000
     }
 }
